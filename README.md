@@ -14,9 +14,19 @@
 
 ---
 
-Hello everyone! I'm a student at **NMAMIT University** and a self-taught developer. I built **ClipSift** because I wanted a clean, fast Windows desktop app that automatically finds and cuts the best moments from long videos and livestreams without monthly subscriptions, watermarks, or messy terminal setup.
+Hello everyone! I'm a student at **NMAMIT University** and a self-taught developer. I built **ClipSift** because I wanted a clean, fast Windows desktop app that automatically finds and cuts the best moments from long videos and livestreams—without monthly subscriptions, watermarks, or messy terminal setup.
 
 If you find ClipSift useful, dropping a ⭐ on this repo or checking out [my GitHub profile](https://github.com/Rishaan01) means a lot!
+
+---
+
+## What is AI Clipping (and Why ClipSift)?
+
+Short-form clips are one of the fastest ways to grow views and build an audience across **YouTube Shorts, Instagram Reels, and TikTok**. **AI clipping** takes long-form content—like podcasts, gaming sessions, and multi-hour livestreams—and automatically pulls out the funniest, sharpest, or most viral-worthy moments as ready-to-post short clips.
+
+**The Problem:** Doing this by hand is brutal. Finding a few standout moments in a 2-to-6-hour stream means scrubbing through hours of footage, hunting for timestamps, cutting scenes one by one, reformatting them into vertical 9:16, and adding captions. On top of that, most cloud-based AI clippers lock decent exports behind expensive monthly subscriptions and watermarks.
+
+**How ClipSift Solves It:** Paste a YouTube link and let ClipSift do the heavy lifting right on your Windows PC. It scans the video, scores the strongest highlights automatically, trims clean clips, formats them into **9:16** or **16:9**, and optionally burns in subtitles—turning hours of manual hunting and editing into a single click, completely free.
 
 ---
 
