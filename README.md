@@ -14,7 +14,7 @@
 
 ---
 
-Hello everyone! I'm a student at **NMAMIT University** and a self-taught developer. I built **ClipSift** because I wanted a clean, fast Windows desktop app that automatically finds and cuts the best moments from long videos and livestreams—without monthly subscriptions, watermarks, or messy terminal setup.
+Hello everyone! I'm a student at **NMAMIT University** and a self-taught developer. I built **ClipSift** because I wanted a clean, fast Windows desktop app that automatically finds and cuts the best moments from long videos and livestreams without monthly subscriptions, watermarks, or messy terminal setup.
 
 If you find ClipSift useful, dropping a ⭐ on this repo or checking out [my GitHub profile](https://github.com/Rishaan01) means a lot!
 
