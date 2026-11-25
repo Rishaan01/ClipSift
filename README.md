@@ -4,17 +4,17 @@
 
 **Turn long YouTube videos & livestreams into ready-to-post clips — locally, for free.**
 
-[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rishaan01/ClipSift/releases/latest)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](https://github.com/Rishaan01/ClipSift)
-[![Release](https://img.shields.io/badge/Download-v1.0.0-6366F1?style=for-the-badge&logo=github)](https://github.com/Rishaan01/ClipSift/releases/latest)
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Rishaan01/AiSift/releases/tag/v1.0.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](https://github.com/Rishaan01/AiSift)
+[![Release](https://img.shields.io/badge/Download-v1.0.0-6366F1?style=for-the-badge&logo=github)](https://github.com/Rishaan01/AiSift/releases/tag/v1.0.0)
 
-[Download for Windows (`ClipSift_Setup.exe`)](https://github.com/Rishaan01/ClipSift/releases/latest)
+[Download for Windows (`ClipSift_Setup.exe`)](https://github.com/Rishaan01/AiSift/releases/tag/v1.0.0)
 
 </div>
 
 ---
 
-Hello everyone! I'm a student at **NMAMIT University** and a self-taught developer (**Mohammed Rishaan**). I built **ClipSift** because I wanted a clean, fast Windows desktop app that automatically finds and cuts the best moments from long videos and livestreams—without monthly subscriptions, watermarks, or messy terminal setup.
+Hello everyone! I'm a student at **NMAMIT University** and a self-taught developer. I built **ClipSift** because I wanted a clean, fast Windows desktop app that automatically finds and cuts the best moments from long videos and livestreams—without monthly subscriptions, watermarks, or messy terminal setup.
 
 If you find ClipSift useful, dropping a ⭐ on this repo or checking out [my GitHub profile](https://github.com/Rishaan01) means a lot!
 
@@ -34,7 +34,7 @@ If you find ClipSift useful, dropping a ⭐ on this repo or checking out [my Git
 
 ## Installation
 
-1. Go to the **[Latest Release](https://github.com/Rishaan01/ClipSift/releases/latest)** page and download **`ClipSift_Setup.exe`**.
+1. Go to the **[Latest Release](https://github.com/Rishaan01/AiSift/releases/tag/v1.0.0)** page and download **`ClipSift_Setup.exe`**.
 2. Double-click **`ClipSift_Setup.exe`** and follow the Setup Wizard.
 3. Launch **ClipSift** from your Desktop or Start Menu, paste a YouTube link, and hit **Start Clipping**.
 
