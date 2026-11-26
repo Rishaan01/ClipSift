@@ -14,7 +14,7 @@
 
 ---
 
-Hello everyone! I'm a student at **NMAMIT University** and a self-taught developer. I built **ClipSift** because I wanted a clean, fast Windows desktop app that automatically finds and cuts the best moments from long videos and livestreams—without monthly subscriptions, watermarks, or messy terminal setup.
+Hello everyone! I'm a student at **NMAMIT University** and a self-taught developer (**Mohammed Rishaan**). I built **ClipSift** because I wanted a clean, fast Windows desktop app that automatically finds and cuts the best moments from long videos and livestreams—without monthly subscriptions, watermarks, or messy terminal setup.
 
 If you find ClipSift useful, dropping a ⭐ on this repo or checking out [my GitHub profile](https://github.com/Rishaan01) means a lot!
 
@@ -50,6 +50,17 @@ Short-form clips are one of the fastest ways to grow views and build an audience
 
 > [!NOTE]
 > **Windows SmartScreen Notice:** Because ClipSift is a free, independent project without a paid code-signing certificate, Windows may show a *"Windows protected your PC"* popup on first run. Click **More info** → **Run anyway** to proceed with the installation.
+
+---
+
+## Bug Reports & Feedback
+
+Found a bug, hit an error, or have a feature idea? Reach out directly:
+
+- **Email:** [mohammedrishaan1@gmail.com](mailto:mohammedrishaan1@gmail.com)
+- **GitHub Issues:** [Open an issue](https://github.com/Rishaan01/AiSift/issues)
+
+If you're reporting a bug, including a quick screenshot or the error message from the app helps me fix it much faster.
 
 ---
 
